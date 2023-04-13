@@ -2,12 +2,6 @@
 
 int x= ConvertMeterToCM(3);
 
-
-SayHello();
-
-
-
-
 void SayHello()
 {
  Console.WriteLine ("Hello, world");
