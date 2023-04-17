@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hTXgSks209pnQal6dwmUhZAGtm709mV6VK9q8M0Ax9s6Ccqt1if8j66srLncQKzNnRTHEPyLmabLhpyjA/25TQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\Chapter_1\\Chapter_1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://docker-01.cla.cl-grp.local:8081/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
